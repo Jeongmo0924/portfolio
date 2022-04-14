@@ -25,26 +25,26 @@ class Notice {
 
         const container = document.createElement("div");
         container.setAttribute('id', 'noticeContainer');
-        container.style.backgroundColor = "#000 !important";
-        container.style.padding = '10px !important';
-        container.style.position = 'fixed !important';
+        container.style.backgroundColor = "#000";
+        container.style.padding = '10px';
+        container.style.position = 'fixed';
         container.style.zIndex = this.zindex;
         container.style.left = this.left;
         container.style.top = this.top;
 
         const content = document.createElement("div");
-        content.style.border = '1px solid #ccc !important';
-        content.style.padding = '0 20px 10px 20px !important';
-        content.style.width = "340px !important";
-        content.style.color = '#fff !important';
-        content.style.fontSize = '16px !important';
-        content.style.lineHeight = '150% !important';
+        content.style.border = '1px solid #ccc';
+        content.style.padding = '0 20px 10px 20px';
+        content.style.width = "340px";
+        content.style.color = '#fff';
+        content.style.fontSize = '16px';
+        content.style.lineHeight = '150%';
         content.innerHTML = `<p>이 사이트는 이젠아카데미컴퓨터학원(강남)의<br/><u><b style="color: #cc0">${this.title}</b></u>과정을 통해 학습한 내용을 기반으로 제작되었습니다.</p><p><u><b style="color: #cc0">${myname} 훈련생의 포트폴리오</b></u>를 목적으로 하는 클론코딩 사이트이며 실제 운영되는 사이트가 아니므로 착오 없으시길 바랍니다.</p>`;
 
         const hr = document.createElement('hr');
-        hr.style.border = '0 !important';
-        hr.style.borderTop = '1px solid #fff !important';
-        hr.style.margin = '15px 0 !important';
+        hr.style.border = '0';
+        hr.style.borderTop = '1px solid #fff';
+        hr.style.margin = '15px 0';
         content.appendChild(hr);
 
         const btnList = document.createElement('div');
@@ -52,16 +52,16 @@ class Notice {
         content.appendChild(btnList);
 
         const btnClose = document.createElement('a');
-        btnClose.style.margin = '0 10px !important';
-        btnClose.style.color = '#fff !important';
+        btnClose.style.margin = '0 10px';
+        btnClose.style.color = '#fff';
         btnClose.setAttribute('href', '#');
         btnClose.innerHTML = '[닫기]';
         btnClose.addEventListener('click', this.onBtnCloseClick);
         btnList.appendChild(btnClose);
 
         const btnDocument = document.createElement('a');
-        btnDocument.style.margin = '0 10px !important';
-        btnDocument.style.color = '#fff !important';
+        btnDocument.style.margin = '0 10px';
+        btnDocument.style.color = '#fff';
         btnDocument.setAttribute('href', '#pdfDocument');
         btnDocument.dataset.fslightbox = 'pdf-document'
         btnDocument.innerHTML = '[작업명세서 보기]';

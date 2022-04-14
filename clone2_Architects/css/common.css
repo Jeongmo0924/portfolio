@@ -5,11 +5,11 @@
     font-size: 15px;
     line-height: 1.5;
     text-decoration: none;
+    color: #000;
 }
 
 html, body {
     /* width: 1500px; */
-    color: #000;
 }
 
 hr {
