@@ -141,7 +141,8 @@
         </div>
 
         <script src="libs/BadRequestException.js"></script>
-        <script src="libs/RegexHelper.js"></script>
+        <script src="libs/RegexHelper.js"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/fslightbox/3.3.1/index.min.js"></script>
+        <script src="notice.js"></script>
         <script>
 
             document.querySelector("#join_form").addEventListener("submit", (e) => {
@@ -209,6 +210,8 @@
                     return;
                 }
             });
+            // Notice.init('본인이름', 'pdf파일경로');
+            Notice.init("박정모", "./about.pdf");
         </script>
     </body>
 </html>
