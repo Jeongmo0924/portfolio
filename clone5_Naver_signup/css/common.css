@@ -1,7 +1,6 @@
 
 * {
     box-sizing: border-box;
-    background-color: #f5f6f7;
 }
 
 body {
@@ -9,6 +8,7 @@ body {
     width: 460px;
     display: block;
     margin: auto;
+    background-color: #f5f6f7;
 }
 
 #header {
