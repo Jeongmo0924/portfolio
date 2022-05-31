@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/jeongmo0924.gitbub.io/portfolio/react_clonecodding_1/static/js/main.421e0bf2.js",
-    "static/media/hamburger.jpg": "/jeongmo0924.gitbub.io/portfolio/react_clonecodding_1/static/media/hamburger.300dd093a187195c5883.jpg",
-    "static/media/tablesetting.jpg": "/jeongmo0924.gitbub.io/portfolio/react_clonecodding_1/static/media/tablesetting.a72da3cc51e0cc4db6d2.jpg",
-    "static/media/tablesetting2.jpg": "/jeongmo0924.gitbub.io/portfolio/react_clonecodding_1/static/media/tablesetting2.ab0b5834d17daa7669cd.jpg",
-    "index.html": "/jeongmo0924.gitbub.io/portfolio/react_clonecodding_1/index.html",
-    "main.421e0bf2.js.map": "/jeongmo0924.gitbub.io/portfolio/react_clonecodding_1/static/js/main.421e0bf2.js.map"
+    "main.js": "/portfolio/react_clonecodding_1/static/js/main.c9977c6d.js",
+    "static/media/hamburger.jpg": "/portfolio/react_clonecodding_1/static/media/hamburger.300dd093a187195c5883.jpg",
+    "static/media/tablesetting.jpg": "/portfolio/react_clonecodding_1/static/media/tablesetting.a72da3cc51e0cc4db6d2.jpg",
+    "static/media/tablesetting2.jpg": "/portfolio/react_clonecodding_1/static/media/tablesetting2.ab0b5834d17daa7669cd.jpg",
+    "index.html": "/portfolio/react_clonecodding_1/index.html",
+    "main.c9977c6d.js.map": "/portfolio/react_clonecodding_1/static/js/main.c9977c6d.js.map"
   },
   "entrypoints": [
-    "static/js/main.421e0bf2.js"
+    "static/js/main.c9977c6d.js"
   ]
 }
