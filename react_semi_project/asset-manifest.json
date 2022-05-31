@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/portfolio/react_semi_project/static/css/main.68d5d769.css",
+    "main.js": "/portfolio/react_semi_project/static/js/main.475ced16.js",
+    "index.html": "/portfolio/react_semi_project/index.html",
+    "main.68d5d769.css.map": "/portfolio/react_semi_project/static/css/main.68d5d769.css.map",
+    "main.475ced16.js.map": "/portfolio/react_semi_project/static/js/main.475ced16.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.68d5d769.css",
+    "static/js/main.475ced16.js"
+  ]
+}
