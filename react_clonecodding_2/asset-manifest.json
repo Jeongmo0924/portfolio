@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/portfolio/react_clonecodding_2/static/js/main.2f6ca29c.js",
+    "static/media/map.jpg": "/portfolio/react_clonecodding_2/static/media/map.f164b4bdad91e4ceeac8.jpg",
+    "static/media/architect.jpg": "/portfolio/react_clonecodding_2/static/media/architect.b8383a54799eaff12501.jpg",
+    "index.html": "/portfolio/react_clonecodding_2/index.html",
+    "main.2f6ca29c.js.map": "/portfolio/react_clonecodding_2/static/js/main.2f6ca29c.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.2f6ca29c.js"
+  ]
+}
